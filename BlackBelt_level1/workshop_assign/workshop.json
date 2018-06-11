@@ -1,0 +1,17 @@
+{   "birthday": [
+
+        {
+			"name": "Albert Einstein",
+			"birthdays": "9/12/1985"
+		},
+		{
+			"name": "Benjamin Franklin",
+			"birthdays": "16/2/1970"
+		},
+		{
+			"name": "Ada Lovelace",
+			"birthdays": "26/11/1985"
+		}
+    ]
+    
+}
